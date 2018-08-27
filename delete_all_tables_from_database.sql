@@ -1,0 +1,1 @@
+SELECT 'Drop table [' + SCHEMA_NAME(schema_id) +' ].[' + name + ']' From sys.tables ; 

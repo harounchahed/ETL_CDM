@@ -1,0 +1,147 @@
+ICD	condition_source_name	correct_ICD-9CM_code
+101.6	Prim TB pleuris-oth test	10.16
+113	Tuberculosis Of Bronchus	11.3
+115.3	"Tuberculous Bronchiectasis,"	11.53
+116.4	Tuberculous Pneumonia (Any F	11.64
+119	Unspecified Pulmonary Tuberc	11.9
+119	Pulmonary TB NOS-unspec	11.9
+119.1	Pulmonary TB NOS-no exam	11.91
+119.2	Pulmon TB NOS-exam unkn	11.92
+119.3	Pulmon TB NOS-micro dx	11.93
+119.3	Unspecified Pulmonary Tuberc	11.93
+119.4	Pulmon TB NOS-cult dx	11.94
+119.4	Unspecified Pulmonary Tuberc	11.94
+119.5	Pulmon TB NOS-histo dx	11.95
+119.6	Pulmon TB NOS-oth test	11.96
+119.6	Unspecified Pulmonary Tuberc	11.96
+120.4	"Tuberculous Pleurisy, Tuberc"	12.04
+120.5	TB pleurisy-histolog dx	12.05
+120.6	TB pleurisy-oth test	12.06
+120.6	"Tuberculous Pleurisy, Tuberc"	12.06
+148.4	Intestin TB NEC-cult dx	14.84
+148.5	Intestin TB NEC-histo dx	14.85
+148.5	Tuberculosis Of Intestines A	14.85
+150.6	Tuberculosis Of Vertebral Co	15.06
+179	TB of organ NEC-unspec	17.9
+179.5	TB of organ NEC-histo dx	17.95
+20	Typhoid Fever	2
+20	Typhoid fever	2
+21	Paratyphoid Fever A	2.1
+25	Melioidosis	2.5
+274.8	Gout With Other Specified Ma	M10.00
+30	Salmonella Gastroenteritis	3
+30	Salmonella enteritis	3
+31	Salmonella Septicemia	3.1
+31	Salmonella septicemia	3.1
+35	Erysipelas	35
+35	Erysipelas	35
+384.3	Pseudomonas septicemia	38.43
+384.4	Serratia septicemia	38.44
+39	"Salmonella Infection, Unspec"	3.9
+39	Salmonella infection NOS	3.9
+399	Actinomycosis NOS	33.9
+400	Gas gangrene	40
+41	Shigella Flexneri	4.1
+411.9	Other staphylococcus	41.19
+418	Other Specified Bacterial In	41.8
+418.1	Mycoplasma	41.81
+418.2	Bacillus fragilis	41.82
+418.3	Clostridium perfringens	41.83
+418.4	Other anaerobes	41.84
+418.5	Oth gram negatv bacteria	41.85
+418.6	Helicobacter pylori	41.86
+418.9	Oth specf bacteria	41.89
+419	Bacterial infection NOS	41.9
+42	Human immuno virus dis	42.1
+479	Unspecified Viral Meningitis	47.9
+48	Other Enterovirus Diseases O	48
+499	Unspecified Non-Arthropod-Bo	49.9
+52	Chickenpox	52
+54	Food pois: v. parahaem	5.4
+541	"Appendicitis, Unqualified"	541
+541	"Genital Herpes, Unspecified"	54.1
+544.3	H simplex keratitis	54.43
+547	Herpes Simplex With Other Sp	54.7
+547.9	H simplex complicat NEC	54.79
+548	Herpes Simplex With Unspecif	54.8
+549	Herpes Simplex Without Menti	54.9
+549	Herpes simplex NOS	54.9
+559	Measles Without Mention Of C	55.9
+59	"Food Poisoning, Unspecified"	5.9
+61	Dengue	61
+62	Mosquito-Borne Viral Encepha	62
+69	"Amebiasis, Unspecified"	6.9
+703.2	Hpt B chrn wo cm wo dlta	70.32
+705.4	Chron hpt C wo hpat coma	70.54
+75	Infectious Mononucleosis	75
+75	Infectious mononucleosis	75
+78	Protozoal intest dis NEC	7.8
+781.2	Abnormality Of Gait	R26.0
+781.2	Abnormality of gait	R26.0
+783.1	Abnormal weight gain	R63.5
+783.2	Abnormal Loss Of Weight	
+783.2	Abnormal loss of weight	
+783.3	Feeding problem	
+783.3	Feeding Difficulties And Mis	
+783.5	Polydipsia	R63.1
+783.5	Polydipsia	R63.1
+783.6	Polyphagia	R63.2
+785.3	Abnorm heart sounds NEC	R01.2
+787.8	Change in bowel habit	R19.4
+790	Abnorm red blood cell	790
+790.1	Elevated sediment rate	790.1
+790.2	Abn glucose toleran test	790.2
+790.4	Nonspecific Elevation Of Lev	790.4
+790.4	Elev transaminase/ldh	790.4
+790.5	Abn serum enzy level NEC	790.5
+790.5	Other Nonspecific Abnormal S	790.5
+790.6	Abn blood chemistry NEC	790.6
+790.9	Other Nonspecific Findings O	790.9
+790.91	Abnrml art blood gases	790.91
+790.92	Abnrml coagultion prfile	790.92
+790.93	Elvtd prstate spcf antgn	790.93
+790.99	Oth nspcf finding blood	790.99
+791.9	Other Nonspecific Findings O	791.9
+791.9	Abn urine findings NEC	791.9
+792.1	Nonspecific Abnormal Finding	792.1
+792.1	Abn find-stool contents	792.1
+793	Abn finding-skull & head	793
+793.1	Abn findings-lung field	793.1
+793.1	Nonspecific Abnormal Finding	793.1
+793.2	Abn fd-intrathor org NEC	793.2
+793.3	Abn find-biliary tract	793.3
+793.4	Abn findings-gi tract	793.4
+793.5	Abn findings-gu organs	793.5
+793.6	Abn find-abdominal area	793.6
+793.7	Abn find-musculoskel sys	793.7
+793.8	Abnormal findings-breast	793.8
+793.9	Abn find-body struct NEC	793.9
+794.2	Abn pulmonary func study	794.2
+794.3	Nonspecific Abnormal Results	794.3
+794.31	Nonspecific Abnormal Electro	794.31
+794.31	Abnorm electrocardiogram	794.31
+794.39	Abn cardiovasc study NEC	794.39
+794.4	Abn kidney funct study	794.4
+794.5	Abn thyroid funct study	794.5
+794.8	Nonspecific Abnormal Results	794.8
+794.8	Abn liver function study	794.8
+794.9	Abn function study NEC	794.9
+795.3	Hiv-2 infection oth dis	795.3
+795.3	Positive culture finding	795.3
+795.71	Nonspcf serlgc evdnc hiv	795.71
+796.2	Elev bl pres w/o hypertn	796.2
+796.4	Abn clinical finding NEC	796.4
+798.9	Oth specf viral infectn	79.89
+80	Intestinal Infections Due To	8
+84	Intestinal Infection Due To	8.4
+85	"Bacterial Enteritis, Unspeci"	8.5
+86	Enteritis Due To Specified V	8.6
+88	Intestinal Infection Due To	8.8
+88	Viral enteritis NOS	8.8
+90	"Infectious Colitis, Enteriti"	9
+90	Ill-Defined Intestinal Infec	9
+90	Infectious enteritis NOS	9
+92	Infectious Diarrhea	9.2
+92	Infectious diarrhea NOS	9.2
+994.7	Asphyxiation And Strangulati	994.7
+994.7	Asphyxiation/strangulat	994.7
