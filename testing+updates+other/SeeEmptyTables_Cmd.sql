@@ -1,1 +1,0 @@
-Exec sp_MSforeachtable 'IF NOT EXISTS (SELECT 1 FROM ?) PRINT ''?'' '
